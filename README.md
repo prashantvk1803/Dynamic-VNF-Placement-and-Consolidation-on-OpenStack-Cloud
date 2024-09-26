@@ -125,7 +125,7 @@ In our proposed work, we have optimised VNF placement within NFV and SDN through
 
 | **Name**            | **USN**       | 
 |---------------------|---------------|
+| Prashant Konaraddi  | 01FE21BCS073  |
 | Ananya Deshpande    | 01FE21BCS059  |
 | Pragati D Bhat      | 01FE21BCS070  |
-| Prashant K          | 01FE21BCS073  |
 | Supreet Palankar    | 01FE21BCS068  |
